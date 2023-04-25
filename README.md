@@ -1,6 +1,6 @@
 # Cache-Simulation
 <sub>This is a Cache Simulation for the University of Florida CDA3101 course </sub>
-# The following programs has the below parameters
+# The following program has the below parameters
 ```
 > Number of bytes in the cache (a positive power of 2) 
 > Number of blocks in each set (associativity)
@@ -10,4 +10,4 @@
 > n sets of m blocks is m-way set associative
 ```
 
-
+<sub> It reads from a list of tens of thousands of random memory address in a gcc file </sub>
