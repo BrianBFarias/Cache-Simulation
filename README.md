@@ -10,4 +10,4 @@
 > n sets of m blocks is m-way set associative
 ```
 
-<sub> It reads from a list of tens of thousands of random memory address in a gcc file </sub>
+<sub> It reads from a list of tens of thousands of random memory address in a **.txt** file </sub>
