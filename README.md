@@ -4,7 +4,7 @@
 ```
 > Number of bytes in the cache (a positive power of 2) 
 > Number of blocks in each set (associativity)
-> Replacement strategy
+> Replacement strategy (FIFO or LRU)
 > Number of bytes in a block (a positive power of 2, must be at least 4)
 > 1 set of n blocks is fully associative
 > n sets of 1 block is direct mapped
